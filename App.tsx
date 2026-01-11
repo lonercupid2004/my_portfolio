@@ -16,8 +16,8 @@ const DEFAULT_HERO_TITLE = "FAIM";
 const DEFAULT_HERO_SUBTITLE = "PATHAN";
 
 const DEFAULT_PROJECTS = [
-  { id: 1, title: 'DAIRY STORE', category: 'Organic', year: '2025', image: '/asset/dairy store.PNG' , link: ''},
-  { id: 2, title: 'SOLO LEVELING', category: 'Fantasy', year: '2025', image: '/asset/solo leveling.PNG' , link: '#'},
+  { id: 1, title: 'DAIRY STORE', category: 'Organic', year: '2025', image: '/asset/dairystore.PNG' , link: ''},
+  { id: 2, title: 'SOLO LEVELING', category: 'Fantasy', year: '2025', image: '/asset/sololeveling.PNG' , link: '#'},
   { id: 3, title: 'E-COMMERCE', category: 'ESSENTIAL', year: '2025', image: '/asset/amitrjmart.PNG', link: 'https://amitrjmart.com/' },
   { id: 4, title: 'VOID CALLER', category: 'Horror', year: '2023', image: 'https://images.unsplash.com/photo-1478720143034-8fa356b21473?auto=format&fit=crop&q=80&w=800' },
   { id: 5, title: 'URBAN NOIR', category: 'Thriller', year: '2022', image: 'https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&q=80&w=800' },
